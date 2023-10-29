@@ -1,5 +1,4 @@
-## [Files, Folders, Images and PDFs](files_and_folders)
-
+## Mail Activities
 This Python package contains Mail class to work with emails,
 for more information about how to develop your RPA projects with python check https://automatehub.es/
 
